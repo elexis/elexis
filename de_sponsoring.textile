@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Weiterentwicklung (mit-)finanzieren"
+---
+
+Da wenige Ärzte auch gut und gerne programmieren wurden viele Elexis-Erweiterungen wurden von Ärzten bezahlt, welche "Entwickler":de_support.html beauftragt haben, Erweiterungen zu programmieren, welche für ihr Tagesgeschäft wichtig sind.
+
+Die Medelexis AG 
+
+

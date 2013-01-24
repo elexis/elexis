@@ -1,0 +1,26 @@
+---
+layout: default
+title: Elexis
+---
+
+h2(#what).  What is Elexis?
+
+Elexis is an Eclipse RCP program for all aspects of a medical practice: electronic medical record (EMR), laboratory findings etc., as well as accounting, billing (swiss TARMED-System, other systems to be developped) and other daily work.
+
+A fully functional version (including only a small set of plug-ins in order not to confuse newcomers) may be downloaded via the "Files" tab. Users may optionally include a demo database to have a playground for experiments. 
+
+The "Elexis Forum":http://elexis-forum.ch/ is the place where (Swiss-German) users share their experiences.
+
+The site http://www.elexis.ch contains a lot of (sometimes outdated) information as it is not actively maintained.
+
+Developers and anybody trying to compile Elexis from scratch should look at "Elexis bootstrap project":https://bitbucket.org/ngiger/elexis-bootstrap
+
+h2(#news).  News
+
+* Elexis 2.1.7.0 was released on Novembeer 8 2012. For details consult the "release-notes":https://github.com/elexis/elexis/wiki/Release-Notes-for-2.1.7.0
+
+h2(#notices).  Credits & Notices
+
+Elexis is distributed under the conditions of the "Eclipse Public License":epl-v10.html.
+
+For the list of contributers have a look at the (German) "Thank you":de_contributers.html page.

@@ -1,0 +1,42 @@
+---
+layout: default
+title: Elexis
+---
+
+Elexis est un logicial libre pour un cabinet médical, developpé par le médecin généralist Dr. Gerry Weirich.
+
+Elexis est utilisé dans plus de 100 cabinets médicaux en Suisse alémanique. Une manuel a été traduit en français par le docteur Bruno Büchel.
+
+Pour être utilisable à grande échelle dans la Suisse romande manquent:
+* la traduction d'une grande partie de plug-in
+* adaptation du schéma de programmation pour remplaçer beaucoup de codes fixes par des réferences dans la base de données
+* des médecins prêts à tester des versions préliminaire
+* le financement
+Le release manager d'Elexis "Niklaus Giger":"mailto:niklaus.giger@member.fsf.org estime que ce travail demande plusieurs mois de travail. Il est très interessé qu'Elexis devienne un logicial vraiement Suisse et ne reste pas une spécialité Suisse alémanique.
+
+Le logiciel (une application du type Eclipse RCP) est écrit en Java et fonctionne sans problème sous Linux, MacOSX ou Windows. Une intégration avec Libre/OpenOffice existe.
+
+Sous "Elexis kennenlernen":de_quick_start.html vous trouvez un guide (en allemand) pour installer une version démo d'Elexis.
+
+h2(#what).  Les composants d'Elexis
+
+Elexis est centré autour le dossier électronique due patient. La facturation respecte le Tarmed suisse.
+
+Grace au système des vues adaptables le médecin peut facilement voir:
+* Consulter l'agenda
+* le dossier du patient, p.e. l'anamnèse personelle, les problèmes actuelles, la médication
+* la consultation actuelle et antérieures
+* remarque pour la facturation
+* le solde du montant dû du patient
+* liens vers les résultats du labo, liste de contrôle (diabète, grossesse, etc)
+* impression d'un aperçu du patient
+
+h2(#news).  Nouvelles
+
+Elexis 2.1.7.0 a été publié le 8. novembre 2012. Pour les détails consultez "Release-Notes":https://github.com/elexis/elexis/wiki/Release-Notes-for-2.1.7.0
+
+h2(#notices).  Mérites & license
+
+Le code source d'Elexis est distribué sous la license "Eclipse Public License":epl-v10.html.
+
+Seule la participation génereuse de beaucoup de personne a permis à Elexis de devenir un programme. Une liste (incomplète) des développeurs, sponsors, traducteurs, etc (en Allemand) peut être consulter sous: "Danke an":de_contributers.html.

@@ -1,0 +1,5 @@
+---
+layout: default
+title: "Einstieg: Elexis kennen lernen"
+---
+Eine aktuelle Demo-Version mit einigen Plug-In (nicht zu vielen, um Neueinsteiger nicht zu verwirren) findet man auf SourceForge via "Files":https://sourceforge.net/projects/elexis/files/latest/download. Sie kann heruntergeladen werden und ohne Probleme auf Linux, MacOSX und Windows installiert werden. Optional wird zusätzlich eine Demo-Datenbank installiert, auf denen Sie ohne Risiko Ihre ersten Erfahrungen mit Elexis machen können.
