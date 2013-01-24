@@ -1,4 +1,0 @@
-elexis
-======
-
-Testing elexis releases
