@@ -1,64 +1,27 @@
----
-layout: default
-title: Allgemeines zu Elexis
----
+h2.  Introduction
 
-h2(#introduction).  Einführung
+This a github project, where (at the moment) only the wiki is used to assemble notes for the developers.
 
-Elexis ist eine umfassende open source Software für die Arztpraxis, welche zum grossen Teil von Dr. Gerry Weirich entwickelt wurde.
+More about the elexis project can be found at "elexis.info":http://elexis.info
 
-Elexis wird als Open-Source-Software entwickelt, dh die Software selbst ist frei, der Quellcode veröffentlicht und kostenlos. Dies erlaubt vor allem, dass individuelle Wünsche von jedem Nutzer 'angebaut' werden können, meist wohl als Auftrag an einen Programmierer. Damit ist Elexis auch nie definitiv fertig gestellt.
-Aktuell fehlen noch einige von uns gewünschten Features und Finessen. Aber seit 3-4 Jahren arbeiten rund 100 Ärzte damit; nicht alle sind uns bekannt. Je grösser der Anwenderkreis mit der Bereitschaft das Projekt mitzutragen, desto raffinierter, ausgeklügelter wird das System.
-Das Projekt soll durch freiwillige Mitarbeit und Entgeltung für Beratung, Installation, Support und Wartung, aber auch durch Aufträge für Weiterentwicklungen lebendig erhalten werden.
-Einige Ärzte und die "Argomed":http://www.argomed.ch/ gründeten 2009 die "Medelexis AG":http://www.medelexis.ch, welche Support zu Elexis anbietet und viel Zeit und Geld in die Weiterentwicklung von Elexis investiert hat.
+The following items might be of interest of you:
 
-Elexis ist in Java geschrieben dh läuft grundsätzlich auf allen Plattformen, auch auf dem kostenlosen Linux. Es macht aktuell am ehesten Sinn, den Server mit Linux, die Clients mit Windows, MacOSX oder Linux zu betreiben.
-Open/LibreOffice kann in Elexis integriert werden.
+* "Roadmap":https://github.com/elexis/elexis/wiki/Roadmap
+* Differences/feature of the different "Text-Plugins":https://github.com/elexis/elexis/wiki/Choice-Textplugin
+* "Vorgehen Releases":https://github.com/elexis/elexis/wiki/Vorgehen
 
-Eine Anleitung zur Installation einer voll funktionsfähigen Demo-Version von Elexis finden Sie unter "Elexis kennenlernen":de_quickstart.html.
+h3. Release notes
 
-h2(#why).  Das Erfolgsrezept von Elexis
+* "upcoming 2.1.7.1":https://github.com/elexis/elexis/wiki/Release-Notes-for-2.1.7.1-%28Draft%29
+* "2.1.7.0":https://github.com/elexis/elexis/wiki/Release-Notes-for-2.1.7.0
 
-* Entworfen von einem Arzt.
-* Weiterentwickelt von Ärzten und Programmieren
-* Ein Netzwerk von Anwendern, welche Kritik, Ideen, Geld und Dokumentation beigesteuert haben und Neueinsteiger unterstützen
-* Firmen, welche professionellen "Support":support.hml für Installation, Beratung, Wartung, praxis-spezifische Anpassung und Weiterentwicklungen anbieten
-* Die "Medelexis AG":http://www.medelexis.ch, wo Ärzte versuchen, ihre Branchensoftware nach ihren Bedürfnissen zu warten und weiter zu entwickeln. 
+h3. Entwicklertreffen/developers meeting 
 
-Das Result wurde von "Dr. Ambauen":https://sourceforge.net/users/ambadso wie folgt zusammengefasst!
+* "2012":https://github.com/elexis/elexis/wiki/Entwicklertreffen-2012
+* "2011":https://github.com/elexis/elexis/wiki/Entwicklertreffen-2011
+* "2010":https://github.com/elexis/elexis/wiki/Entwicklertreffen-2010
 
-bq. Elexis: Das flexibelste Praxisprogramm für Ärztinnen und Ärzte!
+h3. License
 
-h2(#what).  Was ist Elexis
+Elexis is developped under the "Eclipse Public License":epl-v10.html.
 
-Im Zentrum steht die elektronische Krankengeschichte. Ein Abrechnungssystem ist eingeschlossen. Mit Elexis können Ärzte all ihre Patientenakten verwalten, dh auch externe Dateien, alte Berichte, (Röntgen-)Bilder, Faxe; dies ist spz für den Umstieg wichtig.
-Selbstverständlich können auch nur Teile des Programms zB die Fakturierung oder die elektronische Agenda verwendet werden.
-Trotz der umfassenderen Fähigkeiten bleibt Elexis günstiger als andere reine Abrechnungslösungen.
-Elexis ist extrem an individuelle Wünsche anpassbar.
-
-Elexis kann im Gegensatz zu anderen Arztpraxis-Programmen folgende Anforderungen gleichzeitig auf gleicher Bildschirmmaske erfüllen:
-
-* Zeitmanagement, Agenda, Wartezimmerüberwachung
-* Patientenübersicht, dh integriert persönliche Anamnese, aktuelle Probleme, Medikamentenliste
-* gleichzeitig aktuelle und frühere Konsultationen
-* Fakturierungsvermerke neben den medizinischen Angaben, was eine Plausibilitätskontrolle erlaubt
-* allfällige Schulden eines Klienten, was eine baldige Beziehungsklärung erlaubt
-* Verknüpfungen im Konsultationstext auf durchgeführte Untersuchungen zB Labor, Checklisten (Diabetes-, Schwangerschafts-Kontrolle,...), die in Unterfenstern dargestellt werden, etc
-* Ausdruck einer Patienten-Übersicht für Arztbesuche
-* Aus- und Einlesen von/in andere Ärzte-Software, sofern diese auch Schnittstellen haben. 
-
-h2(#news).  Neuigkeiten, Versionen
-
-* Elexis 2.1.7.0 wurde am 8. November 2012 freigegeben. Details siehe "Release-Notes":https://github.com/elexis/elexis/wiki/Release-Notes-for-2.1.7.0
-* Elexis 2.1.6.4.1 wurde am  18. Mai 2012 freigegeben 
-* -Elexis 2.1.6.4 wurde am 14. Mai 2012 freigegeben- 
-* Elexis 2.1.6.2 wurde am 2. Februar 2012 freigegeben 
-* Elexis 2.1.6.1 wurde am 11. Dezember 2011 freigegeben 
-* Elexis 2.1.6.0 wurde am 27. November 2011 freigegeben 
-* Elexis 2.1.5.4 wurde am 2. Oktober 2011 freigegeben 
-
-h2(#notices).  Lizenz & Ehre wem Ehre gebührt
-
-Der Quellcode von Elexis wird unter den Bedingungen, welche in der "Eclipse Public License":epl-v10.html definiert sind, weiterverteilt.
-
-Elexis wäre ohne den generösen Einsatz vieler Leute nie entstanden. Eine Liste der Entwickler, Sponsoren, Beta-Tester und Handbuch-Schreiber findet man im "Danke an":de_contributers.html.
