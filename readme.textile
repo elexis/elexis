@@ -1,27 +1,4 @@
 h2.  Introduction
 
-This a github project, where (at the moment) only the wiki is used to assemble notes for the developers.
-
-More about the elexis project can be found at "elexis.info":http://elexis.info
-
-The following items might be of interest of you:
-
-* "Roadmap":https://github.com/elexis/elexis/wiki/Roadmap
-* Differences/feature of the different "Text-Plugins":https://github.com/elexis/elexis/wiki/Choice-Textplugin
-* "Vorgehen Releases":https://github.com/elexis/elexis/wiki/Vorgehen
-
-h3. Release notes
-
-* "upcoming 2.1.7.1":https://github.com/elexis/elexis/wiki/Release-Notes-for-2.1.7.1-%28Draft%29
-* "2.1.7.0":https://github.com/elexis/elexis/wiki/Release-Notes-for-2.1.7.0
-
-h3. Entwicklertreffen/developers meeting 
-
-* "2012":https://github.com/elexis/elexis/wiki/Entwicklertreffen-2012
-* "2011":https://github.com/elexis/elexis/wiki/Entwicklertreffen-2011
-* "2010":https://github.com/elexis/elexis/wiki/Entwicklertreffen-2010
-
-h3. License
-
-Elexis is developped under the "Eclipse Public License":epl-v10.html.
+This a github project, where (at the moment) only the "wiki":https://github.com/elexis/elexis/wiki is used to assemble notes for the developers.
 
